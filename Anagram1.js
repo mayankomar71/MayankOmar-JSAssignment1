@@ -34,11 +34,11 @@ var length_Str2 = Str2.length;
 if (length_Str1 == length_Str2) {
     //if both Strings are same will output it as Anagram
     if (Str1 == Str2) {
-        console.log("String is Anagram");
+        console.log("True");
     }
     //else it will output as not anagram
     else {
-        console.log("String is not anagram");
+        console.log("False");
     }
 
 } else {
